@@ -1,4 +1,4 @@
-# DeFi Developer RoadMap
+# DeFi Developer Road Map
 
 **Here we collect and discuss the best DeFi & Blockchain researches and tools - contributions are welcome.**
 
