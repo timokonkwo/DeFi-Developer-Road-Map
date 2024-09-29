@@ -280,7 +280,7 @@
 - [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service (Mainnet, Ropsten, Rinkeby)
 - [Alchemy](https://alchemyapi.io/) - Blockchain Developer Platform, Ethereum API, and Node Service (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 - [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
-- [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
+- [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain.
 
 #### Test Ether Faucets
 
@@ -303,7 +303,7 @@
 - [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
 - [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable React Dapp components
 - [Metamask ui](https://github.com/MetaMask/metamask-storybook) - Metamask React Components
-- [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) - A cross-platform hybrid hosting mechanism for web based decentralised applications
+- [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) - A cross-platform hybrid hosting mechanism for web based decentralised applications.
 - [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - Cross-platform desktop wallet sample
 - [eth-button](https://eth-button.github.io/eth-button/) - Minimalist donation button
 - [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
